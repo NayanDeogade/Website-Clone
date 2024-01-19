@@ -1,2 +1,2 @@
 # Website-Clone
-Website clone
+For Cloning the website I have only used HTML and CSS. 
